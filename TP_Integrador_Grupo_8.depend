@@ -1,0 +1,504 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\santi\desktop\tp_integrador_grupo_8\main.cpp
+	<iostream>
+
+1698386923 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\editorial.cpp
+	"Editorial.h"
+
+1698386923 c:\users\santi\desktop\tp_integrador_grupo_8\include\editorial.h
+
+1698386949 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\genero.cpp
+	"Genero.h"
+
+1698386949 c:\users\santi\desktop\tp_integrador_grupo_8\include\genero.h
+
+1698386821 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\libro.cpp
+	"Libro.h"
+
+1698386821 c:\users\santi\desktop\tp_integrador_grupo_8\include\libro.h
+
+1698387158 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\autor.cpp
+	"Autor.h"
+
+1698387158 c:\users\santi\desktop\tp_integrador_grupo_8\include\autor.h
+
+1698387137 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\cliente.cpp
+	"Cliente.h"
+
+1698387137 c:\users\santi\desktop\tp_integrador_grupo_8\include\cliente.h
+
+1698515991 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\fecha.cpp
+	"Fecha.h"
+
+1698515991 c:\users\santi\desktop\tp_integrador_grupo_8\include\fecha.h
+
+1698387224 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\mediodepago.cpp
+	"MedioDePago.h"
+
+1698387224 c:\users\santi\desktop\tp_integrador_grupo_8\include\mediodepago.h
+
+1698387193 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\venta.cpp
+	"Venta.h"
+
+1698387193 c:\users\santi\desktop\tp_integrador_grupo_8\include\venta.h
+
+1698519959 source:c:\users\santi\desktop\tp_integrador_grupo_8\src\detalleventa.cpp
+	"DetalleVenta.h"
+	"string.h"
+
+1698520056 c:\users\santi\desktop\tp_integrador_grupo_8\include\detalleventa.h
+	"Fecha.h"
+	"Venta.h"
+	"Libro.h"
+	"Cliente.h"
+
+1698555737 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	"DetalleVenta.h"
+	"MedioDePago.h"
+	"menu.h"
+
+1698523735 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\autor.cpp
+	"Autor.h"
+
+1698523735 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\autor.h
+
+1698549723 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\cliente.cpp
+	"Cliente.h"
+	"string.h"
+	"Fecha.h"
+
+1698557586 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\cliente.h
+	"FEcha.h"
+
+1698524507 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\detalleventa.cpp
+	"DetalleVenta.h"
+	"string.h"
+
+1698524248 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\detalleventa.h
+	"Fecha.h"
+	"Venta.h"
+	"Libro.h"
+	"Cliente.h"
+
+1698557958 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\fecha.h
+	<iostream>
+
+1698526652 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\venta.h
+	"Fecha.h"
+
+1698523735 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\libro.h
+
+1698523735 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\editorial.cpp
+	"Editorial.h"
+
+1698523735 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\editorial.h
+
+1698557966 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\fecha.cpp
+	"Fecha.h"
+
+1698523735 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\genero.cpp
+	"Genero.h"
+
+1698523735 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\genero.h
+
+1698523735 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\libro.cpp
+	"Libro.h"
+
+1698552982 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\mediodepago.cpp
+	"MedioDePago.h"
+	"string.h"
+
+1698524431 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\mediodepago.h
+
+1698552542 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\venta.cpp
+	"Venta.h"
+	"string.h"
+
+1698555211 c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\include\menu.h
+
+1698555680 source:c:\users\santi\desktop\tp_integrador_grupo_8\tp-integrador-programacion2-utn-frgp\src\menu.cpp
+	<iostream>
+	"menu.h"
+
+1699940094 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\main.cpp
+	<iostream>
+	"menu.h"
+	"Venta.h"
+	"VentasService.h"
+	"LibroService.h"
+	"Libro.h"
+	"Editorial.h"
+	"Autor.h"
+	"Genero.h"
+	"Fecha.h"
+
+1699934253 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\fecha.h
+	<iostream>
+
+1700085269 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\cliente.h
+	"FEcha.h"
+
+1699584369 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\detalleventa.h
+	"Fecha.h"
+	"Venta.h"
+	"Libro.h"
+	"Cliente.h"
+
+1698717069 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\venta.h
+	"Fecha.h"
+
+1698721085 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\libro.h
+	"Fecha.h"
+
+1699679439 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\mediodepago.h
+
+1700104482 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\menu.h
+
+1699498443 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\autor.cpp
+	"Autor.h"
+	"string.h"
+	<iostream>
+
+1699495433 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\autor.h
+
+1700085275 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\cliente.cpp
+	"Cliente.h"
+	"string.h"
+	"Fecha.h"
+
+1699674813 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\detalleventa.cpp
+	"DetalleVenta.h"
+	"string.h"
+	"VentasService.h"
+	"ClienteService.h"
+	"Cliente.h"
+	"LibroService.h"
+	"MedioDePago.h"
+	"Editorial.h"
+	"Genero.h"
+	"Autor.h"
+
+1700178691 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\editorial.cpp
+	"Editorial.h"
+	"string.h"
+	<iostream>
+
+1699420291 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\editorial.h
+
+1700197045 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\fecha.cpp
+	"Fecha.h"
+
+1700191984 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\genero.cpp
+	"Genero.h"
+	"string.h"
+	<iostream>
+	<cstdio>
+
+1699418488 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\genero.h
+
+1698717691 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\libro.cpp
+	"Libro.h"
+	"Fecha.h"
+	"Autor.h"
+	"Genero.h"
+	"Editorial.h"
+	"string.h"
+
+1699679439 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\mediodepago.cpp
+	"MedioDePago.h"
+	"string.h"
+	<cstdio>
+
+1700279622 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\menu.cpp
+	<iostream>
+	"menu.h"
+	"Libro.h"
+	"Genero.h"
+	"Editorial.h"
+	"Autor.h"
+	"LibroService.h"
+	"VentasService.h"
+	"ClienteService.h"
+	"Config.h"
+
+1698717057 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\venta.cpp
+	"Venta.h"
+	"string.h"
+
+1700278312 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\ventasservice.cpp
+	"VentasService.h"
+	"ClienteService.h"
+	"LibroService.h"
+	<cstdio>
+	"string.h"
+	"../properties.h"
+	"Fecha.h"
+	"Genero.h"
+	"Editorial.h"
+	"menu.h"
+
+1700196045 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\ventasservice.h
+	"Venta.h"
+	"DetalleVenta.h"
+	"MedioDePago.h"
+
+1700103800 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\properties.h
+
+1700105988 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\clienteservice.cpp
+	"ClienteService.h"
+	"Cliente.h"
+	"Fecha.h"
+	"string.h"
+	"VentasService.h"
+
+1700105080 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\clienteservice.h
+	"Cliente.h"
+
+1700107956 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\libroservice.cpp
+	"LibroService.h"
+	<cstdio>
+	"string.h"
+	"Autor.h"
+	"Genero.h"
+	"Editorial.h"
+	"Venta.h"
+
+1700280732 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\libroservice.h
+	"Libro.h"
+
+1700084881 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\config.cpp
+	"Config.h"
+	"LibroService.h"
+	"VentasService.h"
+
+1699938732 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\config.h
+
+1700102702 source:c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\src\estadistica.cpp
+	"Estadistica.h"
+	"Venta.h"
+	<cstdio>
+	"string.h"
+
+1700102624 c:\users\santi\desktop\tp integrador\tp-integrador-programacion2-utn-frgp\include\estadistica.h
+
+1700356868 source:c:\users\santi\desktop\prueba\tp_grupo_8\main.cpp
+	<iostream>
+	"menu.h"
+	"Venta.h"
+	"VentasService.h"
+	"LibroService.h"
+	"Libro.h"
+	"Editorial.h"
+	"Autor.h"
+	"Genero.h"
+	"Fecha.h"
+	"Config.h"
+
+1700293354 c:\users\santi\desktop\prueba\tp_grupo_8\include\menu.h
+
+1698717069 c:\users\santi\desktop\prueba\tp_grupo_8\include\venta.h
+	"Fecha.h"
+
+1699934253 c:\users\santi\desktop\prueba\tp_grupo_8\include\fecha.h
+	<iostream>
+
+1700330231 c:\users\santi\desktop\prueba\tp_grupo_8\include\ventasservice.h
+	"Venta.h"
+	"DetalleVenta.h"
+	"MedioDePago.h"
+
+1699584369 c:\users\santi\desktop\prueba\tp_grupo_8\include\detalleventa.h
+	"Fecha.h"
+	"Venta.h"
+	"Libro.h"
+	"Cliente.h"
+
+1698721085 c:\users\santi\desktop\prueba\tp_grupo_8\include\libro.h
+	"Fecha.h"
+
+1700085269 c:\users\santi\desktop\prueba\tp_grupo_8\include\cliente.h
+	"FEcha.h"
+
+1700281038 c:\users\santi\desktop\prueba\tp_grupo_8\include\mediodepago.h
+
+1700291385 c:\users\santi\desktop\prueba\tp_grupo_8\include\libroservice.h
+	"Libro.h"
+
+1699420291 c:\users\santi\desktop\prueba\tp_grupo_8\include\editorial.h
+
+1699495433 c:\users\santi\desktop\prueba\tp_grupo_8\include\autor.h
+
+1699418488 c:\users\santi\desktop\prueba\tp_grupo_8\include\genero.h
+
+1699498443 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\autor.cpp
+	"Autor.h"
+	"string.h"
+	<iostream>
+
+1700085275 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\cliente.cpp
+	"Cliente.h"
+	"string.h"
+	"Fecha.h"
+
+1700105988 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\clienteservice.cpp
+	"ClienteService.h"
+	"Cliente.h"
+	"Fecha.h"
+	"string.h"
+	"VentasService.h"
+
+1700281038 c:\users\santi\desktop\prueba\tp_grupo_8\include\clienteservice.h
+	"Cliente.h"
+
+1700293295 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\config.cpp
+	"Config.h"
+	"LibroService.h"
+	"VentasService.h"
+	"string.h"
+	"Autor.h"
+	"Genero.h"
+	"Editorial.h"
+	"libxl.h"
+
+1700293129 c:\users\santi\desktop\prueba\tp_grupo_8\include\config.h
+	"Cliente.h"
+
+1699674813 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\detalleventa.cpp
+	"DetalleVenta.h"
+	"string.h"
+	"VentasService.h"
+	"ClienteService.h"
+	"Cliente.h"
+	"LibroService.h"
+	"MedioDePago.h"
+	"Editorial.h"
+	"Genero.h"
+	"Autor.h"
+
+1700178691 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\editorial.cpp
+	"Editorial.h"
+	"string.h"
+	<iostream>
+
+1700197045 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\fecha.cpp
+	"Fecha.h"
+
+1700191984 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\genero.cpp
+	"Genero.h"
+	"string.h"
+	<iostream>
+	<cstdio>
+
+1698717691 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\libro.cpp
+	"Libro.h"
+	"Fecha.h"
+	"Autor.h"
+	"Genero.h"
+	"Editorial.h"
+	"string.h"
+
+1700291385 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\libroservice.cpp
+	"LibroService.h"
+	<cstdio>
+	"string.h"
+	"Autor.h"
+	"Genero.h"
+	"Editorial.h"
+	"Venta.h"
+	"libxl.h"
+
+1699679439 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\mediodepago.cpp
+	"MedioDePago.h"
+	"string.h"
+	<cstdio>
+
+1700356589 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\menu.cpp
+	<iostream>
+	"menu.h"
+	"Libro.h"
+	"Genero.h"
+	"Editorial.h"
+	"Autor.h"
+	"LibroService.h"
+	"VentasService.h"
+	"ClienteService.h"
+	"Config.h"
+
+1698717057 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\venta.cpp
+	"Venta.h"
+	"string.h"
+
+1700356340 source:c:\users\santi\desktop\prueba\tp_grupo_8\src\ventasservice.cpp
+	"VentasService.h"
+	"ClienteService.h"
+	"LibroService.h"
+	"DetalleVenta.h"
+	<cstdio>
+	"string.h"
+	"../properties.h"
+	"Fecha.h"
+	"Genero.h"
+	"Editorial.h"
+	"menu.h"
+	"libxl.h"
+
+1700103800 c:\users\santi\desktop\prueba\tp_grupo_8\properties.h
+
+1700281720 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\libxl.h
+	"IBookT.h"
+	"ISheetT.h"
+	"IFormatT.h"
+	"IFontT.h"
+	"IAutoFilterT.h"
+	"IFilterColumnT.h"
+	"IRichStringT.h"
+	"IFormControlT.h"
+	"IConditionalFormatT.h"
+	"IConditionalFormattingT.h"
+
+1700281719 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\ibookt.h
+	<stddef.h>
+	"setup.h"
+	"enum.h"
+
+1700281720 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\setup.h
+
+1700281719 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\enum.h
+
+1700281720 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\isheett.h
+	"setup.h"
+	"enum.h"
+
+1700281720 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\iformatt.h
+	"setup.h"
+	"enum.h"
+
+1700281719 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\ifontt.h
+	"setup.h"
+	"enum.h"
+
+1700281719 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\iautofiltert.h
+	"setup.h"
+
+1700281719 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\ifiltercolumnt.h
+	"setup.h"
+	"enum.h"
+
+1700281720 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\irichstringt.h
+	"setup.h"
+
+1700281720 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\iformcontrolt.h
+	"setup.h"
+	"enum.h"
+
+1700281719 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\iconditionalformatt.h
+	"setup.h"
+	"enum.h"
+
+1700281719 c:\users\santi\desktop\prueba\tp_grupo_8\libxl-4.2.0\include_cpp\iconditionalformattingt.h
+	"setup.h"
+	"enum.h"
+
