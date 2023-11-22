@@ -135,7 +135,7 @@ void ClienteService::ordenarVectorPorNombres(Cliente *vectorClientes,int tam){
     int i,j;
     Cliente aux;
     for(i=0;i<tam;i++){
-       for(j=i+1;j<tam;j++){
+       for(j=1;j<tam;j++){
         if(strcmp(vectorClientes[j].getApellido(),vectorClientes[j-1].getApellido())<0){
             aux=vectorClientes[j-1];
             vectorClientes[j-1]=vectorClientes[j];
@@ -149,7 +149,7 @@ void ClienteService::ordenarVectorPorFecha(Cliente *vectorClientes,int tam){
     int i,j;
     Cliente aux;
     for(i=0;i<tam;i++){
-       for(j=i+1;j<tam;j++){
+       for(j=1;j<tam;j++){
         if(vectorClientes[j].getFecha().getAnio()<vectorClientes[j-1].getFecha().getAnio()){
             aux=vectorClientes[j-1];
             vectorClientes[j-1]=vectorClientes[j];
